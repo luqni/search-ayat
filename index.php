@@ -1,4 +1,5 @@
 <?php 
+    require 'hitCounter.php';
     include "tema/header.php";
         if (isset($_GET ['page'])){
             $page = $_GET['page'];
