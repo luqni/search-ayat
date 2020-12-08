@@ -50,7 +50,7 @@ if (isset($_GET['q']) && $_GET['q'] != "") {
     
     $quran_text = file("data/quran_teks.txt", FILE_IGNORE_NEW_LINES);
     $quran_trans = file("data/trans-indonesian.txt", FILE_IGNORE_NEW_LINES);
-    $quran_latin = file("data/latin_quran.txt", FILE_IGNORE_NEW_LINES);
+    // $quran_latin = file("data/latin_quran.txt", FILE_IGNORE_NEW_LINES);
 
     
     // khusus ayat dengan fawatihussuwar
@@ -309,7 +309,7 @@ if (isset($_GET['q']) && $_GET['q'] != "") {
                                 
                                 list($d_no_surat, $d_nama_surat, $d_no_ayat, $d_isi_teks) = explode('|', $quran_text[$doc->id - 1]);
                                 list(,, $terjemah) = explode('|', $quran_trans[$doc->id - 1]);
-                                list(,, $latin) = explode('|', $quran_latin[$doc->id - 1]);
+                                // list(,, $latin) = explode('|', $quran_latin[$doc->id - 1]);
                                 // echo($quran_latin[$doc->id - 1]);
                                 
                                
@@ -359,7 +359,7 @@ if (isset($_GET['q']) && $_GET['q'] != "") {
                                 }
                                 echo         '</div>';
                                 echo         '<div class="aya_latin" id="aya_latin_'.$i.'">';
-                                echo         $latin;
+                                // echo         $latin;
                                 echo         '</div>';
                                 echo         '<div class="aya_trans" id="aya_trans_'.$i.'">';
                                 echo         $terjemah;
