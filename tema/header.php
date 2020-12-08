@@ -5,7 +5,7 @@
     <meta name="description" content="Elqoarizme merupakan team pengembang teknologi yang berdiri pada tahun 2020 ">
     <title>Lafadz ID</title>
     <!-- Favicon -->
-    <link rel="icon" href="assets/img/new/werls-icon.png" type="image/png">
+    <link rel="icon" href="assets/img/new/icon-me.png" type="image/png">
     <!-- Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,800">
     <!-- Font Awesome 5 -->
