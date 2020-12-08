@@ -73,7 +73,7 @@
                 <div class="row row-grid align-items-center justify-content-around">
                     <div class="col-lg-5">
                         <div class="img-back-shape">
-                            <img alt="Image placeholder" src="assets/img/new/WERLS-find-alquran.png" class="img-center img-fluid">
+                            <img alt="Image placeholder" src="assets/img/new/gambar-depan.png" class="img-center img-fluid">
                         </div>
                     </div>
                     <div class="col-lg-5">
