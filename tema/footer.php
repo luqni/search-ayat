@@ -1,3 +1,7 @@
+  <?php
+    $hit = new HitCounter();
+    $hit->Hitung();
+  ?>
   <footer class="footer footer-dark " style="background:linear-gradient(135deg,#138008 0,#11ad02 60%);!important">
         <div class="container">
             <div class="row pt-md">
@@ -19,18 +23,19 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-2 col-sm-4 mb-5 mb-lg-0">
-                    <h6 class="heading mb-3">Contact Us</h6>
+                <div class="col-lg-2 col-lg-4 mb-5 mb-lg-0">
+                    <h6 class="heading mb-3">Visitor</h6>
                     <ul class="list-unstyled">
-                        <li><a href="#">Loerem ipsum</a>
-                        </li>
-                        <li><a href="#">Loerem ipsum</a>
-                        </li>
-                        <li><a href="#">Loerem ipsum</a>
+                        <li>Assalamu'alaikum Kamu Pengunjung ke : <?php echo $hit->tampil(); 
+                        $h = $hit->waktu();
+                        if (!empty($h)) {
+                            echo '<br>Anda telah mengunjungi halaman ini pada : ' . $h;
+                        }
+                        ?>
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-2 col-sm-4 mb-5 mb-lg-0">
+                <!-- <div class="col-lg-2 col-sm-4 mb-5 mb-lg-0">
                     <h6 class="heading mb-3">Privacy Policy</h6>
                     <ul class="list-unstyled">
                         <li><a href="#">Loerem ipsum</a>
@@ -40,7 +45,7 @@
                         <li><a href="#">Loerem ipsum</a>
                         </li>
                     </ul>
-                </div>
+                </div> -->
             </div>
             <div class="row align-items-center justify-content-md-between py-4 mt-4 delimiter-top text-white">
                 <div class="col-md-6">
