@@ -6,7 +6,7 @@
 
     <title>IT Indonesian Tehnologi</title>
     <!-- Favicon -->
-    <link rel="icon" href="<?=$domain;?>/assets/img/new/Werls-icon.png" type="image/png">
+    <link rel="icon" href="<?=$domain;?>/assets/img/new/icon-me.png" type="image/png">
     <!-- Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,800">
     <!-- Font Awesome 5 -->
