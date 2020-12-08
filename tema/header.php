@@ -3,8 +3,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Elqoarizme merupakan team pengembang teknologi yang berdiri pada tahun 2020 ">
-    <meta name="google-site-verification" content="E2-onnpnsni3RtF7U_qlaefhNI7mAeXRF-F1eCcy4xI" />
-    <meta name="author" content="Imam Asri">
     <title>Lafadz ID</title>
     <!-- Favicon -->
     <link rel="icon" href="assets/img/new/werls-icon.png" type="image/png">

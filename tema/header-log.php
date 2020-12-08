@@ -3,9 +3,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Elqoarizme merupakan team pengembang teknologi yang berdiri pada tahun 2020 ">
-    <meta name="google-site-verification" content="E2-onnpnsni3RtF7U_qlaefhNI7mAeXRF-F1eCcy4xI" />
-    <meta name="author" content="Imam Asri">
-    <title>Werls.CO.ID - IT Indonesian Tehnologi</title>
+
+    <title>IT Indonesian Tehnologi</title>
     <!-- Favicon -->
     <link rel="icon" href="<?=$domain;?>/assets/img/new/Werls-icon.png" type="image/png">
     <!-- Fonts -->
