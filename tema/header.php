@@ -2,7 +2,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="WERLS.CO.ID adalah sebuah Team dalam bidang IT untuk mengembangkan tehnologi bersama yang didirikan pada tahun 2017 oleh Imam Asri,Team ini merupakan bentuk majunya teknologi dari tahun ke tahun">
+    <meta name="description" content="Elqoarizme merupakan team pengembang teknologi yang berdiri pada tahun 2020 ">
     <meta name="google-site-verification" content="E2-onnpnsni3RtF7U_qlaefhNI7mAeXRF-F1eCcy4xI" />
     <meta name="author" content="Imam Asri">
     <title>Lafadz ID</title>
