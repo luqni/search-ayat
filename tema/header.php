@@ -43,8 +43,8 @@
 <nav class="navbar navbar-main navbar-expand-lg navbar-sticky navbar-transparent navbar-dark text-white" style="background:linear-gradient(135deg,#138008 0,#11ad02 60%);!important" id="navbar-main">
     <div class="container">
         <a class="navbar-brand mr-lg-5" href="?">
-            <!-- <img alt="Werls Logo" src="assets/img/new/werls-edition.png" style="height: 50px;align:center"> -->
-            <h2 class="logo" >Cari Lafadz</h2>
+            <img alt="elqoarizme Logo" src="assets/img/new/logo-header-quran.png" style="height: 50px;align:center">
+            <!-- <h2 class="logo" >Cari Lafadz</h2> -->
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-main-collapse" aria-controls="navbar-main-collapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
