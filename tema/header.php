@@ -42,7 +42,7 @@
     <!-- Main navbar -->
 <nav class="navbar navbar-main navbar-expand-lg navbar-sticky navbar-transparent navbar-dark text-white" style="background:linear-gradient(135deg,#138008 0,#11ad02 60%);!important" id="navbar-main">
     <div class="container">
-        <a class="navbar-brand mr-lg-5" href="?">
+        <a class="navbar-brand mr-lg-5" href="index.php">
             <img alt="elqoarizme Logo" src="assets/img/new/logo-header-quran.png" style="height: 50px;align:center">
             <!-- <h2 class="logo" >Cari Lafadz</h2> -->
         </a>
